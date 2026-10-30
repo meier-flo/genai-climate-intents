@@ -47,8 +47,6 @@ Requirements:
 - A Python environment with `sentence-transformers` for the embeddings (path in `python_env`). For example: `uv venv py/.venv && uv pip install --python py/.venv sentence-transformers`.
 - An Anthropic API key (`ANTHROPIC_API_KEY` in `~/.Renviron`) for `03_label.R`.
 
-The folder `work/` holds intermediate files with conversation text. Do not share it.
-
 Notes on reproducing the paper:
 
 - The LLM labels may differ slightly between runs. The labels used in the paper are in `data/intent_labels.csv`.
