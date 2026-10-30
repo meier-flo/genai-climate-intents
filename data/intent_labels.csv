@@ -1,0 +1,1068 @@
+conv_id,code,intent
+115917,A1,Factual lookup / explanation
+135413,A2,Content-production delegation
+142486,A2,Content-production delegation
+155249,A2,Content-production delegation
+158457,A2,Content-production delegation
+159512,A2,Content-production delegation
+171248,A2,Content-production delegation
+172202,A1,Factual lookup / explanation
+174396,A2,Content-production delegation
+189000,A6,Skepticism testing / adversarial
+194255,A2,Content-production delegation
+196225,A2,Content-production delegation
+216601,A2,Content-production delegation
+229434,A1,Factual lookup / explanation
+241819,A1,Factual lookup / explanation
+252023,A1,Factual lookup / explanation
+256993,A2,Content-production delegation
+260028,A2,Content-production delegation
+262376,A2,Content-production delegation
+276567,A1,Factual lookup / explanation
+285308,A2,Content-production delegation
+293033,A1,Factual lookup / explanation
+298998,A2,Content-production delegation
+299638,A2,Content-production delegation
+299688,A2,Content-production delegation
+305785,A2,Content-production delegation
+305866,A2,Content-production delegation
+306157,A2,Content-production delegation
+306581,A2,Content-production delegation
+309028,A2,Content-production delegation
+309644,A2,Content-production delegation
+309939,A2,Content-production delegation
+324481,A2,Content-production delegation
+330002,A2,Content-production delegation
+330046,A2,Content-production delegation
+330068,A2,Content-production delegation
+330901,A4,Opinion elicitation / deliberation
+332614,A4,Opinion elicitation / deliberation
+334237,A2,Content-production delegation
+334619,A2,Content-production delegation
+336321,A2,Content-production delegation
+339932,A2,Content-production delegation
+344140,A2,Content-production delegation
+344336,A2,Content-production delegation
+344394,A2,Content-production delegation
+344523,A1,Factual lookup / explanation
+344609,A2,Content-production delegation
+344654,A2,Content-production delegation
+344658,A2,Content-production delegation
+344716,A2,Content-production delegation
+344902,A2,Content-production delegation
+344935,A2,Content-production delegation
+345914,A2,Content-production delegation
+347591,A2,Content-production delegation
+350804,A2,Content-production delegation
+353949,A2,Content-production delegation
+356197,A2,Content-production delegation
+356523,A2,Content-production delegation
+357299,A1,Factual lookup / explanation
+357442,A7,About AI & climate
+357629,A2,Content-production delegation
+360147,A2,Content-production delegation
+360385,A2,Content-production delegation
+360486,A2,Content-production delegation
+360588,A1,Factual lookup / explanation
+360640,A1,Factual lookup / explanation
+360651,A2,Content-production delegation
+360705,A2,Content-production delegation
+361301,A1,Factual lookup / explanation
+361335,A2,Content-production delegation
+361687,A2,Content-production delegation
+361859,A2,Content-production delegation
+361966,A2,Content-production delegation
+362139,A2,Content-production delegation
+363054,A1,Factual lookup / explanation
+364190,A1,Factual lookup / explanation
+368354,A2,Content-production delegation
+368422,A2,Content-production delegation
+370267,A2,Content-production delegation
+371747,A2,Content-production delegation
+371796,A1,Factual lookup / explanation
+375815,A2,Content-production delegation
+377082,A2,Content-production delegation
+378852,A2,Content-production delegation
+381556,A1,Factual lookup / explanation
+392203,A2,Content-production delegation
+393273,A2,Content-production delegation
+394639,A6,Skepticism testing / adversarial
+396523,A1,Factual lookup / explanation
+396538,A2,Content-production delegation
+396548,A2,Content-production delegation
+396552,A2,Content-production delegation
+396578,A2,Content-production delegation
+396630,A1,Factual lookup / explanation
+396641,A2,Content-production delegation
+396651,A1,Factual lookup / explanation
+401286,A1,Factual lookup / explanation
+401646,A2,Content-production delegation
+405200,A2,Content-production delegation
+406908,A2,Content-production delegation
+409241,A4,Opinion elicitation / deliberation
+409579,A4,Opinion elicitation / deliberation
+413839,A2,Content-production delegation
+419269,A1,Factual lookup / explanation
+424623,A4,Opinion elicitation / deliberation
+424709,A1,Factual lookup / explanation
+424886,A2,Content-production delegation
+429333,A2,Content-production delegation
+436435,A1,Factual lookup / explanation
+436446,A2,Content-production delegation
+437723,A2,Content-production delegation
+448129,A2,Content-production delegation
+449105,A1,Factual lookup / explanation
+451275,A2,Content-production delegation
+458131,A6,Skepticism testing / adversarial
+458580,A2,Content-production delegation
+461668,A2,Content-production delegation
+475368,A2,Content-production delegation
+475398,A2,Content-production delegation
+485572,A2,Content-production delegation
+487329,A2,Content-production delegation
+494473,A2,Content-production delegation
+496408,A1,Factual lookup / explanation
+520704,A2,Content-production delegation
+522634,A2,Content-production delegation
+531036,A2,Content-production delegation
+534098,A2,Content-production delegation
+535463,A2,Content-production delegation
+542233,A2,Content-production delegation
+542264,A2,Content-production delegation
+542293,A7,About AI & climate
+543046,A1,Factual lookup / explanation
+543064,A2,Content-production delegation
+543443,A2,Content-production delegation
+545214,A2,Content-production delegation
+546936,A2,Content-production delegation
+551282,A2,Content-production delegation
+557860,A1,Factual lookup / explanation
+560859,A1,Factual lookup / explanation
+575284,A2,Content-production delegation
+575517,A2,Content-production delegation
+575685,A2,Content-production delegation
+592078,A1,Factual lookup / explanation
+592968,A2,Content-production delegation
+592997,A2,Content-production delegation
+597391,A2,Content-production delegation
+598954,A2,Content-production delegation
+613405,A2,Content-production delegation
+628953,A6,Skepticism testing / adversarial
+649186,A2,Content-production delegation
+656524,A2,Content-production delegation
+656553,A2,Content-production delegation
+657924,A2,Content-production delegation
+658103,A2,Content-production delegation
+658585,A2,Content-production delegation
+658603,A2,Content-production delegation
+658616,A2,Content-production delegation
+658730,A2,Content-production delegation
+668644,A2,Content-production delegation
+669086,A2,Content-production delegation
+674382,A2,Content-production delegation
+681184,A2,Content-production delegation
+684401,A1,Factual lookup / explanation
+690307,A2,Content-production delegation
+690719,A2,Content-production delegation
+692096,A2,Content-production delegation
+701494,A2,Content-production delegation
+702265,A2,Content-production delegation
+710965,A2,Content-production delegation
+722822,A2,Content-production delegation
+725756,A2,Content-production delegation
+728031,A2,Content-production delegation
+728315,A2,Content-production delegation
+734805,A2,Content-production delegation
+760203,A2,Content-production delegation
+762619,A2,Content-production delegation
+762716,A2,Content-production delegation
+768573,A2,Content-production delegation
+791303,A2,Content-production delegation
+793122,A2,Content-production delegation
+834817,A2,Content-production delegation
+839940,A2,Content-production delegation
+850793,A2,Content-production delegation
+850996,A2,Content-production delegation
+856773,A1,Factual lookup / explanation
+859637,A2,Content-production delegation
+868682,A2,Content-production delegation
+873347,A2,Content-production delegation
+874899,A2,Content-production delegation
+890739,A2,Content-production delegation
+891712,A2,Content-production delegation
+894647,A1,Factual lookup / explanation
+897877,A2,Content-production delegation
+897932,A2,Content-production delegation
+898155,A2,Content-production delegation
+898220,A2,Content-production delegation
+898302,A2,Content-production delegation
+898350,A2,Content-production delegation
+898524,A2,Content-production delegation
+898629,A2,Content-production delegation
+898907,A2,Content-production delegation
+899664,A2,Content-production delegation
+899781,A2,Content-production delegation
+902053,A2,Content-production delegation
+907186,A2,Content-production delegation
+909775,A1,Factual lookup / explanation
+910024,A2,Content-production delegation
+910248,A2,Content-production delegation
+911131,A2,Content-production delegation
+911532,A2,Content-production delegation
+911601,A2,Content-production delegation
+912273,A2,Content-production delegation
+912622,A1,Factual lookup / explanation
+918427,A2,Content-production delegation
+926096,A2,Content-production delegation
+926257,A2,Content-production delegation
+926297,A2,Content-production delegation
+926337,A2,Content-production delegation
+926673,A2,Content-production delegation
+926723,A2,Content-production delegation
+932011,A2,Content-production delegation
+932369,A1,Factual lookup / explanation
+932392,A2,Content-production delegation
+935199,A1,Factual lookup / explanation
+935293,A2,Content-production delegation
+936751,A1,Factual lookup / explanation
+936805,A1,Factual lookup / explanation
+943199,A1,Factual lookup / explanation
+953318,A2,Content-production delegation
+955293,A2,Content-production delegation
+964043,A2,Content-production delegation
+965197,A2,Content-production delegation
+969027,A2,Content-production delegation
+970946,A1,Factual lookup / explanation
+971505,A2,Content-production delegation
+973507,A6,Skepticism testing / adversarial
+975120,A1,Factual lookup / explanation
+979738,A2,Content-production delegation
+982036,A2,Content-production delegation
+982077,A2,Content-production delegation
+1001869,A1,Factual lookup / explanation
+1013751,A2,Content-production delegation
+1040615,A2,Content-production delegation
+1041528,A1,Factual lookup / explanation
+1049443,A1,Factual lookup / explanation
+1051359,A2,Content-production delegation
+1052234,A2,Content-production delegation
+1053055,A1,Factual lookup / explanation
+1064997,A2,Content-production delegation
+1065361,A1,Factual lookup / explanation
+1074809,A2,Content-production delegation
+1076871,A2,Content-production delegation
+1088015,A2,Content-production delegation
+1090389,A1,Factual lookup / explanation
+1092733,A1,Factual lookup / explanation
+1096833,A1,Factual lookup / explanation
+1111095,A2,Content-production delegation
+1111144,A2,Content-production delegation
+1113539,A2,Content-production delegation
+1121129,A2,Content-production delegation
+1128667,A2,Content-production delegation
+1144225,A1,Factual lookup / explanation
+1144737,A1,Factual lookup / explanation
+1145071,A2,Content-production delegation
+1145389,A1,Factual lookup / explanation
+1145770,A1,Factual lookup / explanation
+1146382,A1,Factual lookup / explanation
+1154594,A1,Factual lookup / explanation
+1158617,A1,Factual lookup / explanation
+1161000,A1,Factual lookup / explanation
+1166812,A1,Factual lookup / explanation
+1174646,A2,Content-production delegation
+1178108,A2,Content-production delegation
+1178118,A2,Content-production delegation
+1178477,A2,Content-production delegation
+1178512,A2,Content-production delegation
+1189066,A2,Content-production delegation
+1189105,A2,Content-production delegation
+1189164,A2,Content-production delegation
+1189177,A2,Content-production delegation
+1201381,A2,Content-production delegation
+1201788,A2,Content-production delegation
+1201900,A2,Content-production delegation
+1204554,A1,Factual lookup / explanation
+1204580,A1,Factual lookup / explanation
+1205815,A2,Content-production delegation
+1206248,A6,Skepticism testing / adversarial
+1210815,A1,Factual lookup / explanation
+1214006,A1,Factual lookup / explanation
+1220379,A2,Content-production delegation
+1220383,A1,Factual lookup / explanation
+1220533,A2,Content-production delegation
+1220674,A2,Content-production delegation
+1222064,A2,Content-production delegation
+1226300,A1,Factual lookup / explanation
+1226735,A2,Content-production delegation
+1227011,A2,Content-production delegation
+1227049,A1,Factual lookup / explanation
+1227164,A1,Factual lookup / explanation
+1227328,A2,Content-production delegation
+1242832,A1,Factual lookup / explanation
+1243009,A2,Content-production delegation
+1249850,A2,Content-production delegation
+1253662,A2,Content-production delegation
+1266001,A2,Content-production delegation
+1266806,A2,Content-production delegation
+1267437,A2,Content-production delegation
+1271057,A2,Content-production delegation
+1271663,A2,Content-production delegation
+1272094,A2,Content-production delegation
+1272266,A2,Content-production delegation
+1272998,A2,Content-production delegation
+1273262,A2,Content-production delegation
+1273360,A2,Content-production delegation
+1275501,A2,Content-production delegation
+1276640,A1,Factual lookup / explanation
+1276812,A2,Content-production delegation
+1280557,A2,Content-production delegation
+1280647,A2,Content-production delegation
+1280807,A2,Content-production delegation
+1282830,A2,Content-production delegation
+1285493,A2,Content-production delegation
+1285519,A2,Content-production delegation
+1291064,A2,Content-production delegation
+1293570,A1,Factual lookup / explanation
+1300262,A2,Content-production delegation
+1306973,A2,Content-production delegation
+1307009,A2,Content-production delegation
+1311380,A2,Content-production delegation
+1311648,A2,Content-production delegation
+1312748,A2,Content-production delegation
+1313366,A2,Content-production delegation
+1316233,A2,Content-production delegation
+1317839,A1,Factual lookup / explanation
+1322967,A2,Content-production delegation
+1326870,A1,Factual lookup / explanation
+1327476,A2,Content-production delegation
+1329304,A1,Factual lookup / explanation
+1331201,A2,Content-production delegation
+1331435,A2,Content-production delegation
+1331451,A2,Content-production delegation
+1337434,A2,Content-production delegation
+1337482,A2,Content-production delegation
+1337515,A1,Factual lookup / explanation
+1337558,A2,Content-production delegation
+1337638,A1,Factual lookup / explanation
+1337671,A2,Content-production delegation
+1337696,A2,Content-production delegation
+1337733,A2,Content-production delegation
+1338109,A2,Content-production delegation
+1341665,A1,Factual lookup / explanation
+1343663,A1,Factual lookup / explanation
+1346249,A2,Content-production delegation
+1346306,A2,Content-production delegation
+1352924,A2,Content-production delegation
+1352978,A2,Content-production delegation
+1353190,A2,Content-production delegation
+1353288,A2,Content-production delegation
+1354759,A2,Content-production delegation
+1355099,A2,Content-production delegation
+1355116,A2,Content-production delegation
+1355166,A2,Content-production delegation
+1356508,A2,Content-production delegation
+1356604,A2,Content-production delegation
+1356642,A2,Content-production delegation
+1357107,A2,Content-production delegation
+1357790,A2,Content-production delegation
+1358140,A2,Content-production delegation
+1362092,A1,Factual lookup / explanation
+1362983,A2,Content-production delegation
+1363067,A1,Factual lookup / explanation
+1363107,A1,Factual lookup / explanation
+1363139,A1,Factual lookup / explanation
+1363180,A2,Content-production delegation
+1363245,A2,Content-production delegation
+1363303,A2,Content-production delegation
+1363735,A2,Content-production delegation
+1365849,A2,Content-production delegation
+1367033,A2,Content-production delegation
+1367050,A2,Content-production delegation
+1367156,A2,Content-production delegation
+1368348,A2,Content-production delegation
+1370262,A2,Content-production delegation
+1370277,A2,Content-production delegation
+1371486,A4,Opinion elicitation / deliberation
+1371556,A2,Content-production delegation
+1371577,A2,Content-production delegation
+1374858,A2,Content-production delegation
+1374904,A2,Content-production delegation
+1374950,A2,Content-production delegation
+1376992,A2,Content-production delegation
+1377380,A2,Content-production delegation
+1377809,A2,Content-production delegation
+1378182,A2,Content-production delegation
+1378425,A2,Content-production delegation
+1379308,A2,Content-production delegation
+1383075,A2,Content-production delegation
+1387241,A2,Content-production delegation
+1387356,A2,Content-production delegation
+1389439,A2,Content-production delegation
+1389675,A2,Content-production delegation
+1389740,A2,Content-production delegation
+1389840,A2,Content-production delegation
+1390560,A2,Content-production delegation
+1391349,A1,Factual lookup / explanation
+1394248,A2,Content-production delegation
+1394284,A2,Content-production delegation
+1394359,A2,Content-production delegation
+1394393,A2,Content-production delegation
+1396485,A4,Opinion elicitation / deliberation
+1400117,A2,Content-production delegation
+1400263,A2,Content-production delegation
+1400338,A2,Content-production delegation
+1400435,A2,Content-production delegation
+1400847,A1,Factual lookup / explanation
+1400877,A1,Factual lookup / explanation
+1401007,A2,Content-production delegation
+1409330,A2,Content-production delegation
+1413225,A2,Content-production delegation
+1415382,A2,Content-production delegation
+1416497,A2,Content-production delegation
+1416917,A2,Content-production delegation
+1420950,A1,Factual lookup / explanation
+1420955,A1,Factual lookup / explanation
+1421043,A1,Factual lookup / explanation
+1421080,A1,Factual lookup / explanation
+1421133,A1,Factual lookup / explanation
+1421352,A2,Content-production delegation
+1421396,A2,Content-production delegation
+1421602,A2,Content-production delegation
+1421721,A2,Content-production delegation
+1421821,A2,Content-production delegation
+1426879,A2,Content-production delegation
+1427349,A2,Content-production delegation
+1427909,A2,Content-production delegation
+1431882,A1,Factual lookup / explanation
+1434676,A2,Content-production delegation
+1434827,A2,Content-production delegation
+1435513,A2,Content-production delegation
+1435947,A2,Content-production delegation
+1440961,A2,Content-production delegation
+1441114,A2,Content-production delegation
+1443401,A2,Content-production delegation
+1444222,A4,Opinion elicitation / deliberation
+1453275,A2,Content-production delegation
+1456498,A2,Content-production delegation
+1460034,A2,Content-production delegation
+1460267,A2,Content-production delegation
+1460333,A2,Content-production delegation
+1460335,A2,Content-production delegation
+1460431,A2,Content-production delegation
+1460479,A2,Content-production delegation
+1460502,A2,Content-production delegation
+1460605,A2,Content-production delegation
+1460653,A2,Content-production delegation
+1460838,A2,Content-production delegation
+1461288,A2,Content-production delegation
+1461568,A2,Content-production delegation
+1461728,A1,Factual lookup / explanation
+1461784,A2,Content-production delegation
+1462846,A2,Content-production delegation
+1464230,A2,Content-production delegation
+1467655,A1,Factual lookup / explanation
+1478777,A2,Content-production delegation
+1484552,A1,Factual lookup / explanation
+1485867,A2,Content-production delegation
+1488815,A2,Content-production delegation
+1488905,A2,Content-production delegation
+1489724,A1,Factual lookup / explanation
+1490804,A2,Content-production delegation
+1490911,A2,Content-production delegation
+1492861,A2,Content-production delegation
+1493046,A2,Content-production delegation
+1493590,A2,Content-production delegation
+1493702,A2,Content-production delegation
+1493705,A2,Content-production delegation
+1497683,A2,Content-production delegation
+1498771,A2,Content-production delegation
+1498794,A2,Content-production delegation
+1519554,A1,Factual lookup / explanation
+1520224,A5,Validation / reassurance seeking
+1520357,A1,Factual lookup / explanation
+1520421,A6,Skepticism testing / adversarial
+1524202,A1,Factual lookup / explanation
+1524713,A2,Content-production delegation
+1531882,A2,Content-production delegation
+1534849,A2,Content-production delegation
+1542875,A2,Content-production delegation
+1544005,A2,Content-production delegation
+1546806,A1,Factual lookup / explanation
+1549707,A2,Content-production delegation
+1549760,A1,Factual lookup / explanation
+1553343,A2,Content-production delegation
+1553834,A2,Content-production delegation
+1558051,A2,Content-production delegation
+1558629,A1,Factual lookup / explanation
+1559731,A2,Content-production delegation
+1565072,A2,Content-production delegation
+1565904,A1,Factual lookup / explanation
+1565919,A1,Factual lookup / explanation
+1566946,A2,Content-production delegation
+1568555,A2,Content-production delegation
+1568577,A2,Content-production delegation
+1569063,A2,Content-production delegation
+1569083,A2,Content-production delegation
+1570721,A3,Personal action advice
+1578113,A2,Content-production delegation
+1581934,A2,Content-production delegation
+1597124,A2,Content-production delegation
+1599367,A1,Factual lookup / explanation
+1610810,A4,Opinion elicitation / deliberation
+1614229,A1,Factual lookup / explanation
+1623761,A2,Content-production delegation
+1626004,A1,Factual lookup / explanation
+1636744,A2,Content-production delegation
+1636793,A2,Content-production delegation
+1638933,A2,Content-production delegation
+1643584,A7,About AI & climate
+1643603,A2,Content-production delegation
+1645945,A1,Factual lookup / explanation
+1654591,A2,Content-production delegation
+1665355,A2,Content-production delegation
+1667433,A2,Content-production delegation
+1667524,A2,Content-production delegation
+1667550,A2,Content-production delegation
+1668060,A2,Content-production delegation
+1668483,A2,Content-production delegation
+1671000,A2,Content-production delegation
+1678939,A2,Content-production delegation
+1688840,A2,Content-production delegation
+1688955,A1,Factual lookup / explanation
+1690017,A1,Factual lookup / explanation
+1690024,A2,Content-production delegation
+1692607,A2,Content-production delegation
+1698760,A1,Factual lookup / explanation
+1699140,A2,Content-production delegation
+1700108,A1,Factual lookup / explanation
+1704878,A2,Content-production delegation
+1705143,A2,Content-production delegation
+1707489,A2,Content-production delegation
+1712988,A2,Content-production delegation
+1715216,A2,Content-production delegation
+1716546,A2,Content-production delegation
+1716549,A2,Content-production delegation
+1716552,A2,Content-production delegation
+1716553,A2,Content-production delegation
+1716554,A2,Content-production delegation
+1716576,A2,Content-production delegation
+1716578,A2,Content-production delegation
+1716852,A2,Content-production delegation
+1716854,A2,Content-production delegation
+1716876,A2,Content-production delegation
+1716885,A2,Content-production delegation
+1716900,A2,Content-production delegation
+1716920,A2,Content-production delegation
+1716937,A2,Content-production delegation
+1724199,A1,Factual lookup / explanation
+1733985,A2,Content-production delegation
+1733988,A2,Content-production delegation
+1736893,A1,Factual lookup / explanation
+1737255,A3,Personal action advice
+1737697,A1,Factual lookup / explanation
+1739612,A1,Factual lookup / explanation
+1744747,A1,Factual lookup / explanation
+1746391,A2,Content-production delegation
+1747150,A2,Content-production delegation
+1747482,A1,Factual lookup / explanation
+1755630,A2,Content-production delegation
+1761330,A1,Factual lookup / explanation
+1763693,A2,Content-production delegation
+1765202,A2,Content-production delegation
+1765244,A2,Content-production delegation
+1767833,A1,Factual lookup / explanation
+1771433,A1,Factual lookup / explanation
+1773840,A1,Factual lookup / explanation
+1776905,A2,Content-production delegation
+1785704,A2,Content-production delegation
+1787339,A2,Content-production delegation
+1789494,A1,Factual lookup / explanation
+1795291,A1,Factual lookup / explanation
+1800366,A1,Factual lookup / explanation
+1807316,A2,Content-production delegation
+1810451,A1,Factual lookup / explanation
+1821327,A1,Factual lookup / explanation
+1822955,A1,Factual lookup / explanation
+1826047,A2,Content-production delegation
+1826727,A2,Content-production delegation
+1835405,A1,Factual lookup / explanation
+1840274,A1,Factual lookup / explanation
+1846435,A1,Factual lookup / explanation
+1852181,A2,Content-production delegation
+1858766,A2,Content-production delegation
+1859439,A2,Content-production delegation
+1862250,A2,Content-production delegation
+1865125,A2,Content-production delegation
+1865876,A2,Content-production delegation
+1866880,A1,Factual lookup / explanation
+1868145,A2,Content-production delegation
+1871744,A1,Factual lookup / explanation
+1874843,A3,Personal action advice
+1876916,A2,Content-production delegation
+1877151,A1,Factual lookup / explanation
+1877320,A1,Factual lookup / explanation
+1877719,A2,Content-production delegation
+1878179,A2,Content-production delegation
+1878378,A2,Content-production delegation
+1885932,A1,Factual lookup / explanation
+1895344,A2,Content-production delegation
+1895489,A2,Content-production delegation
+1895903,A2,Content-production delegation
+1896067,A2,Content-production delegation
+1896204,A4,Opinion elicitation / deliberation
+1896271,A2,Content-production delegation
+1896394,A2,Content-production delegation
+1896474,A2,Content-production delegation
+1897440,A2,Content-production delegation
+1902136,A1,Factual lookup / explanation
+1909531,A1,Factual lookup / explanation
+1912880,A1,Factual lookup / explanation
+1912957,A2,Content-production delegation
+1920269,A2,Content-production delegation
+1924361,A2,Content-production delegation
+1929213,A2,Content-production delegation
+1929343,A2,Content-production delegation
+1929763,A2,Content-production delegation
+1930020,A2,Content-production delegation
+1930630,A2,Content-production delegation
+1931154,A1,Factual lookup / explanation
+1932796,A2,Content-production delegation
+1933013,A2,Content-production delegation
+1933470,A2,Content-production delegation
+1933519,A2,Content-production delegation
+1936695,A2,Content-production delegation
+1936840,A1,Factual lookup / explanation
+1943430,A2,Content-production delegation
+1943732,A2,Content-production delegation
+1943944,A2,Content-production delegation
+1948179,A2,Content-production delegation
+1949158,A2,Content-production delegation
+1949400,A2,Content-production delegation
+1949969,A2,Content-production delegation
+1950290,A2,Content-production delegation
+1950613,A2,Content-production delegation
+1950653,A1,Factual lookup / explanation
+1950790,A1,Factual lookup / explanation
+1951159,A2,Content-production delegation
+1951196,A2,Content-production delegation
+1955888,A1,Factual lookup / explanation
+1956160,A2,Content-production delegation
+1956886,A2,Content-production delegation
+1957024,A1,Factual lookup / explanation
+1957066,A2,Content-production delegation
+1957083,A2,Content-production delegation
+1957109,A2,Content-production delegation
+1957161,A2,Content-production delegation
+1957186,A2,Content-production delegation
+1957270,A2,Content-production delegation
+1957552,A2,Content-production delegation
+1957656,A2,Content-production delegation
+1958709,A2,Content-production delegation
+1963598,A2,Content-production delegation
+1966351,A2,Content-production delegation
+1975116,A6,Skepticism testing / adversarial
+1976137,A2,Content-production delegation
+1981068,A4,Opinion elicitation / deliberation
+1983701,A1,Factual lookup / explanation
+1988572,A2,Content-production delegation
+1988579,A2,Content-production delegation
+1991433,A1,Factual lookup / explanation
+1993727,A2,Content-production delegation
+1993860,A2,Content-production delegation
+1994431,A1,Factual lookup / explanation
+1996433,A2,Content-production delegation
+1999081,A2,Content-production delegation
+2000811,A2,Content-production delegation
+2001450,A4,Opinion elicitation / deliberation
+2005478,A1,Factual lookup / explanation
+2005749,A2,Content-production delegation
+2006219,A2,Content-production delegation
+2008467,A2,Content-production delegation
+2009132,A1,Factual lookup / explanation
+2011428,A2,Content-production delegation
+2013917,A2,Content-production delegation
+2013974,A2,Content-production delegation
+2014033,A2,Content-production delegation
+2014696,A1,Factual lookup / explanation
+2015522,A2,Content-production delegation
+2017469,A1,Factual lookup / explanation
+2017635,A3,Personal action advice
+2017979,A2,Content-production delegation
+2020998,A2,Content-production delegation
+2024469,A2,Content-production delegation
+2035689,A2,Content-production delegation
+2038107,A2,Content-production delegation
+2042092,A2,Content-production delegation
+2043349,A2,Content-production delegation
+2053944,A1,Factual lookup / explanation
+2056151,A2,Content-production delegation
+2059765,A2,Content-production delegation
+2077118,A2,Content-production delegation
+2087385,A2,Content-production delegation
+2091645,A2,Content-production delegation
+2103312,A2,Content-production delegation
+2114941,A2,Content-production delegation
+2120824,A2,Content-production delegation
+2145246,A1,Factual lookup / explanation
+2157968,A1,Factual lookup / explanation
+2159743,A1,Factual lookup / explanation
+2167143,A2,Content-production delegation
+2175249,A2,Content-production delegation
+2176594,A2,Content-production delegation
+2196010,A2,Content-production delegation
+2197793,A1,Factual lookup / explanation
+2198515,A1,Factual lookup / explanation
+2225910,A2,Content-production delegation
+2230201,A2,Content-production delegation
+2240352,A2,Content-production delegation
+2269889,A2,Content-production delegation
+2281689,A2,Content-production delegation
+2324359,A2,Content-production delegation
+2330568,A1,Factual lookup / explanation
+2356434,A1,Factual lookup / explanation
+2385861,A2,Content-production delegation
+2386250,A2,Content-production delegation
+2386364,A1,Factual lookup / explanation
+2395689,A2,Content-production delegation
+2398545,A1,Factual lookup / explanation
+2399270,A2,Content-production delegation
+2410965,A2,Content-production delegation
+2411689,A2,Content-production delegation
+2423267,A2,Content-production delegation
+2425490,A2,Content-production delegation
+2427029,A2,Content-production delegation
+2449515,A2,Content-production delegation
+2483373,A2,Content-production delegation
+2502474,A4,Opinion elicitation / deliberation
+2519233,A2,Content-production delegation
+2543517,A2,Content-production delegation
+2543829,A2,Content-production delegation
+2566372,A2,Content-production delegation
+2602866,A1,Factual lookup / explanation
+2602942,A1,Factual lookup / explanation
+2612299,A2,Content-production delegation
+2613840,A2,Content-production delegation
+2614145,A2,Content-production delegation
+2638458,A2,Content-production delegation
+2669682,A1,Factual lookup / explanation
+2678045,A1,Factual lookup / explanation
+2699280,A1,Factual lookup / explanation
+2711669,A2,Content-production delegation
+2716022,A2,Content-production delegation
+2716118,A2,Content-production delegation
+2716161,A2,Content-production delegation
+2716233,A2,Content-production delegation
+2731852,A2,Content-production delegation
+2732954,A2,Content-production delegation
+2751145,A2,Content-production delegation
+2754802,A2,Content-production delegation
+2763950,A1,Factual lookup / explanation
+2764821,A2,Content-production delegation
+2766347,A2,Content-production delegation
+2766363,A2,Content-production delegation
+2766382,A2,Content-production delegation
+2767866,A1,Factual lookup / explanation
+2775045,A2,Content-production delegation
+2775428,A2,Content-production delegation
+2782577,A2,Content-production delegation
+2792069,A2,Content-production delegation
+2792198,A2,Content-production delegation
+2792378,A2,Content-production delegation
+2802984,A2,Content-production delegation
+2814814,A2,Content-production delegation
+2821355,A2,Content-production delegation
+2821363,A2,Content-production delegation
+2822507,A2,Content-production delegation
+2822734,A2,Content-production delegation
+2854054,A1,Factual lookup / explanation
+2858670,A1,Factual lookup / explanation
+2863960,A2,Content-production delegation
+2864610,A1,Factual lookup / explanation
+2871694,A2,Content-production delegation
+2876094,A2,Content-production delegation
+2876262,A1,Factual lookup / explanation
+2879006,A1,Factual lookup / explanation
+2879143,A1,Factual lookup / explanation
+2879168,A1,Factual lookup / explanation
+2899428,A2,Content-production delegation
+2906623,A2,Content-production delegation
+2917634,A4,Opinion elicitation / deliberation
+2926885,A2,Content-production delegation
+2927742,A2,Content-production delegation
+2937620,A2,Content-production delegation
+2940010,A4,Opinion elicitation / deliberation
+2945717,A2,Content-production delegation
+2962315,A1,Factual lookup / explanation
+2962341,A1,Factual lookup / explanation
+2967516,A1,Factual lookup / explanation
+2968719,A3,Personal action advice
+2969689,A1,Factual lookup / explanation
+2978043,A2,Content-production delegation
+2989320,A2,Content-production delegation
+3017526,A2,Content-production delegation
+3022619,A1,Factual lookup / explanation
+3032176,A1,Factual lookup / explanation
+3041685,A2,Content-production delegation
+3047006,A2,Content-production delegation
+3051513,A2,Content-production delegation
+3091859,A2,Content-production delegation
+3128025,A2,Content-production delegation
+3134066,A1,Factual lookup / explanation
+3190717,A1,Factual lookup / explanation
+3204158,A2,Content-production delegation
+3207324,A2,Content-production delegation
+3208474,A2,Content-production delegation
+3224978,A2,Content-production delegation
+3275139,A2,Content-production delegation
+3284863,A2,Content-production delegation
+3290143,A2,Content-production delegation
+3293392,A2,Content-production delegation
+3298267,A2,Content-production delegation
+3305335,A2,Content-production delegation
+3317766,A1,Factual lookup / explanation
+3320237,A2,Content-production delegation
+3326074,A2,Content-production delegation
+3337802,A1,Factual lookup / explanation
+3389889,A2,Content-production delegation
+3400959,A2,Content-production delegation
+3401483,A2,Content-production delegation
+3403967,A1,Factual lookup / explanation
+3406393,A1,Factual lookup / explanation
+3421173,A2,Content-production delegation
+3426870,A2,Content-production delegation
+3427228,A2,Content-production delegation
+3427233,A2,Content-production delegation
+3430114,A2,Content-production delegation
+3430115,A2,Content-production delegation
+3436990,A1,Factual lookup / explanation
+3437048,A1,Factual lookup / explanation
+3438634,A2,Content-production delegation
+3449330,A1,Factual lookup / explanation
+3483525,A2,Content-production delegation
+3492633,A7,About AI & climate
+3515498,A2,Content-production delegation
+3523485,A4,Opinion elicitation / deliberation
+3526094,A1,Factual lookup / explanation
+3530725,A2,Content-production delegation
+3532578,A2,Content-production delegation
+3537368,A2,Content-production delegation
+3537564,A1,Factual lookup / explanation
+3552061,A2,Content-production delegation
+3556760,A2,Content-production delegation
+3580259,A6,Skepticism testing / adversarial
+3580277,A4,Opinion elicitation / deliberation
+3580292,A4,Opinion elicitation / deliberation
+3580296,A2,Content-production delegation
+3580303,A2,Content-production delegation
+3580313,A2,Content-production delegation
+3580318,A2,Content-production delegation
+3580329,A2,Content-production delegation
+3580382,A6,Skepticism testing / adversarial
+3580389,A2,Content-production delegation
+3584314,A2,Content-production delegation
+3600326,A2,Content-production delegation
+3600328,A2,Content-production delegation
+3600417,A2,Content-production delegation
+3628293,A2,Content-production delegation
+3628319,A2,Content-production delegation
+3628494,A2,Content-production delegation
+3638916,A2,Content-production delegation
+3649719,A1,Factual lookup / explanation
+3681279,A2,Content-production delegation
+3681290,A2,Content-production delegation
+3704936,A2,Content-production delegation
+3714675,A2,Content-production delegation
+3720308,A2,Content-production delegation
+3732500,A2,Content-production delegation
+3734640,A2,Content-production delegation
+3739195,A2,Content-production delegation
+3753708,A2,Content-production delegation
+3773008,A1,Factual lookup / explanation
+3777244,A2,Content-production delegation
+3795042,A2,Content-production delegation
+3798351,A5,Validation / reassurance seeking
+3818203,A2,Content-production delegation
+3818472,A2,Content-production delegation
+3842138,A1,Factual lookup / explanation
+3867967,A2,Content-production delegation
+3879585,A2,Content-production delegation
+3889534,A1,Factual lookup / explanation
+3896874,A2,Content-production delegation
+3898160,A2,Content-production delegation
+3902672,A1,Factual lookup / explanation
+3903041,A2,Content-production delegation
+3903921,A2,Content-production delegation
+3905628,A1,Factual lookup / explanation
+3905791,A2,Content-production delegation
+3927652,A2,Content-production delegation
+3949469,A2,Content-production delegation
+3957152,A2,Content-production delegation
+3961363,A2,Content-production delegation
+3965851,A2,Content-production delegation
+3987882,A2,Content-production delegation
+3996475,A2,Content-production delegation
+3997474,A2,Content-production delegation
+3997856,A2,Content-production delegation
+4000627,A2,Content-production delegation
+4002297,A2,Content-production delegation
+4009364,A2,Content-production delegation
+4019658,A2,Content-production delegation
+4026218,A2,Content-production delegation
+4046010,A4,Opinion elicitation / deliberation
+4070892,A2,Content-production delegation
+4084144,A2,Content-production delegation
+4084176,A2,Content-production delegation
+4094119,A2,Content-production delegation
+4112936,A1,Factual lookup / explanation
+4115305,A4,Opinion elicitation / deliberation
+4127373,A2,Content-production delegation
+4147078,A2,Content-production delegation
+4147365,A2,Content-production delegation
+4149282,A1,Factual lookup / explanation
+4150710,A1,Factual lookup / explanation
+4150712,A1,Factual lookup / explanation
+4150713,A1,Factual lookup / explanation
+4150715,A1,Factual lookup / explanation
+4151514,A2,Content-production delegation
+4191033,A2,Content-production delegation
+4208580,A2,Content-production delegation
+4213875,A2,Content-production delegation
+4216933,A2,Content-production delegation
+4219827,A2,Content-production delegation
+4220826,A2,Content-production delegation
+4239591,A2,Content-production delegation
+4254731,A2,Content-production delegation
+4267544,A1,Factual lookup / explanation
+4332126,A2,Content-production delegation
+4332135,A2,Content-production delegation
+4339278,A2,Content-production delegation
+4359678,A2,Content-production delegation
+4390028,A2,Content-production delegation
+4401702,A2,Content-production delegation
+4401728,A2,Content-production delegation
+4401752,A2,Content-production delegation
+4401793,A2,Content-production delegation
+4401967,A2,Content-production delegation
+4402752,A2,Content-production delegation
+4419188,A2,Content-production delegation
+4430773,A2,Content-production delegation
+4431930,A2,Content-production delegation
+4496426,A2,Content-production delegation
+4496446,A2,Content-production delegation
+4515368,A4,Opinion elicitation / deliberation
+4587955,A1,Factual lookup / explanation
+4673094,A2,Content-production delegation
+4732872,A2,Content-production delegation
+4733146,A2,Content-production delegation
+4733811,A2,Content-production delegation
+4734275,A2,Content-production delegation
+4734324,A2,Content-production delegation
+4734332,A2,Content-production delegation
+4734966,A2,Content-production delegation
+4735513,A2,Content-production delegation
+4735712,A2,Content-production delegation
+4736356,A2,Content-production delegation
+4736862,A2,Content-production delegation
+4737986,A2,Content-production delegation
+4738168,A2,Content-production delegation
+4738318,A2,Content-production delegation
+4738612,A2,Content-production delegation
+4739328,A2,Content-production delegation
+4739443,A2,Content-production delegation
+4739493,A2,Content-production delegation
+4740508,A2,Content-production delegation
+4740976,A2,Content-production delegation
+4741154,A2,Content-production delegation
+4742744,A2,Content-production delegation
+4744293,A2,Content-production delegation
+4744807,A2,Content-production delegation
+4744926,A2,Content-production delegation
+4745303,A2,Content-production delegation
+4761296,A2,Content-production delegation
+4761905,A2,Content-production delegation
+4811120,A2,Content-production delegation
+4811225,A2,Content-production delegation
+4858501,A2,Content-production delegation
+4859855,A1,Factual lookup / explanation
+4877811,A2,Content-production delegation
+4895759,A1,Factual lookup / explanation
+5048698,A2,Content-production delegation
+5079114,A2,Content-production delegation
+5115637,A2,Content-production delegation
+5117785,A2,Content-production delegation
+5120987,A2,Content-production delegation
+5130749,A2,Content-production delegation
+5143779,A2,Content-production delegation
+5164105,A2,Content-production delegation
+5240102,A2,Content-production delegation
+5335726,A2,Content-production delegation
+5335846,A2,Content-production delegation
+5335959,A2,Content-production delegation
+5336056,A2,Content-production delegation
+5695883,A2,Content-production delegation
+5724177,A2,Content-production delegation
+5798178,A2,Content-production delegation
+5798583,A2,Content-production delegation
+5805372,A2,Content-production delegation
+5805777,A2,Content-production delegation
+5806182,A1,Factual lookup / explanation
+5817525,A1,Factual lookup / explanation
+5955804,A2,Content-production delegation
+5955927,A2,Content-production delegation
+6277813,A2,Content-production delegation
+6278728,A2,Content-production delegation
+6316840,A2,Content-production delegation
+6316853,A2,Content-production delegation
+6316869,A2,Content-production delegation
+6321905,A2,Content-production delegation
+6402394,A1,Factual lookup / explanation
+6426745,A7,About AI & climate
+6621468,A2,Content-production delegation
+6664796,A2,Content-production delegation
+6669112,A2,Content-production delegation
+7011718,A2,Content-production delegation
+7011720,A2,Content-production delegation
+7048573,A2,Content-production delegation
+7049671,A2,Content-production delegation
+7058327,A1,Factual lookup / explanation
+7095030,A6,Skepticism testing / adversarial
+7164025,A2,Content-production delegation
+7186045,A1,Factual lookup / explanation
+7251967,A2,Content-production delegation
+7278512,A2,Content-production delegation
+7299637,A2,Content-production delegation
+7307291,A1,Factual lookup / explanation
+7310569,A1,Factual lookup / explanation
+7316370,A1,Factual lookup / explanation
+7398623,A6,Skepticism testing / adversarial
+7407395,A1,Factual lookup / explanation
+7409032,A6,Skepticism testing / adversarial
+7456709,A2,Content-production delegation
+7483142,A1,Factual lookup / explanation
+7502965,A1,Factual lookup / explanation
+7568946,A1,Factual lookup / explanation
+7577750,A1,Factual lookup / explanation
+7621622,A2,Content-production delegation
+7623515,A2,Content-production delegation
+7630553,A2,Content-production delegation
+7638230,A2,Content-production delegation
+7665433,A2,Content-production delegation
+7677802,A2,Content-production delegation
+7678011,A2,Content-production delegation
+7678081,A2,Content-production delegation
+7723430,A1,Factual lookup / explanation
+7723438,A2,Content-production delegation
+7723539,A1,Factual lookup / explanation
+7731395,A2,Content-production delegation
+7814644,A2,Content-production delegation
+8025545,A3,Personal action advice
+8077595,A2,Content-production delegation
+8079455,A2,Content-production delegation
+8081505,A2,Content-production delegation
+8096699,A2,Content-production delegation
+8114018,A2,Content-production delegation
+8127163,A4,Opinion elicitation / deliberation
+8127167,A3,Personal action advice
+8415286,A1,Factual lookup / explanation
+8565921,A1,Factual lookup / explanation

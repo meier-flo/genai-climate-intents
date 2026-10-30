@@ -1,0 +1,61 @@
+# lexicon_en_v1.txt — English core climate lexicon (35 concepts)
+#
+# Used for (a) keyword matching in step 03 (all variants) and (b) embedding
+# query vectors in step 04 (one vector per concept = its first variant).
+#
+# Format: one concept per line; spelling/form variants separated by " | ".
+# Lines starting with # are ignored.
+# Matching: case-insensitive, whole words/phrases, hyphen = space,
+# optional regular plural (-s/-es) on the last word.
+#
+# Selection rules: (1) unambiguous on its own; (2) covers the facets
+# phenomenon, causes/emissions, impacts, responses/policy, institutions,
+# scepticism; (3) checked against a 50k-window probe (frequent terms kept,
+# zero-hit terms only if canonical); (4) variants count as one concept.
+
+# ---- Phenomenon ----
+climate change
+global warming
+global heating
+climate crisis
+climate emergency
+greenhouse effect
+greenhouse gas | greenhouse gases | GHG
+climate science | climate scientist
+climate model | climate modelling | climate modeling
+
+# ---- Causes and emissions ----
+carbon emissions
+CO2 emissions | carbon dioxide emissions
+carbon footprint
+net zero
+carbon neutral | carbon neutrality
+decarbonisation | decarbonization | decarbonise | decarbonize
+low-carbon
+fossil fuel emissions
+carbon offset | carbon credit
+
+# ---- Impacts ----
+sea level rise | rising sea levels
+ocean acidification
+melting glaciers | glacier retreat
+coral bleaching
+extreme weather events
+
+# ---- Responses and policy ----
+climate action
+climate policy
+climate adaptation
+climate mitigation
+carbon capture
+carbon tax | carbon pricing
+
+# ---- Institutions ----
+IPCC | Intergovernmental Panel on Climate Change
+Paris Agreement
+Kyoto Protocol
+
+# ---- Scepticism and denial ----
+climate denial | climate denier
+climate skeptic | climate sceptic | climate skepticism | climate scepticism
+climate hoax | global warming hoax | climate change hoax
