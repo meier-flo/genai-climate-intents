@@ -1,4 +1,4 @@
-# Climate-related conversations in WildChat-4.8M: data and code
+# Climate-related conversations in WildChat-4.8M: code and annotation data
 
 Supplementary material for the CHIIR short paper *Delegation over Debate: How People Use Generative AI Chatbots for Climate Change Information*.
 
