@@ -27,7 +27,7 @@ The release contains conversation IDs, labels, prompts and R code. It contains *
 | A6 | Skepticism testing / adversarial |
 | A7 | About AI & climate |
 
-The definitions and decision rules are in `prompts/intent_v4.txt`.
+The definitions and decision rules are in `prompts/intents.txt`.
 
 ## Code
 
